@@ -1,0 +1,15 @@
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\bin\Debug\net6.0\Local.exe
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\bin\Debug\net6.0\Local.deps.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\bin\Debug\net6.0\Local.runtimeconfig.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\bin\Debug\net6.0\Local.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\bin\Debug\net6.0\Local.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\obj\Debug\net6.0\Local.csproj.AssemblyReference.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\obj\Debug\net6.0\Local.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\obj\Debug\net6.0\Local.AssemblyInfoInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\obj\Debug\net6.0\Local.AssemblyInfo.cs
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\obj\Debug\net6.0\Local.csproj.CoreCompileInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\obj\Debug\net6.0\Local.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\obj\Debug\net6.0\refint\Local.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\obj\Debug\net6.0\Local.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\obj\Debug\net6.0\Local.genruntimeconfig.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\Local\Local\obj\Debug\net6.0\ref\Local.dll
